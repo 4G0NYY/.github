@@ -4,7 +4,7 @@
 
 ### *just a guy who's far too bored, building things the world didn't ask for* ♡
 
-`Zürich, Switzerland` · `Cloud-Native Engineer in training` · [`agony.ch`](https://www.agony.ch) · [`discord`](https://discord.gg/gpt4k7jBbv)
+`Zürich, Switzerland` · `Cloud-Native Engineer` · [`agony.ch`](https://www.agony.ch) · [`discord`](https://discord.gg/gpt4k7jBbv)
 
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-2b2b2b?style=for-the-badge&logo=python&logoColor=ffd343)
